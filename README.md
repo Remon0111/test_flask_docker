@@ -1,1 +1,2 @@
-# test_flask_docker
+# Dockerとdjangoを連携させる課題のリポジトリです
+目標：djangoのページを表示できるようにする
